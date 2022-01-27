@@ -1,13 +1,13 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": "https://evanburg.github.io/pwa-boilerplate/",
+  "start_url": "https://jigar-ux.github.io/INFO-6128Week2Lab.github.io/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#000",
   "share_target": {
-  "action": "/share-target/",
+  "action": "https://jigar-ux.github.io/INFO-6128Week2Lab.github.io/",
   "method": "GET",
   "params": {
     "title": "title",

@@ -5,15 +5,6 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
-  "share_target": {
-  "action": "https://jigar-ux.github.io/INFO-6128Week2Lab.github.io/",
-  "method": "GET",
-  "params": {
-    "title": "title",
-    "text": "text",
-    "url": "url"
-  }
-}
   "theme_color": "#000",
   "icons": [
     {
@@ -47,5 +38,14 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "share_target": {
+  "action": "https://jigar-ux.github.io/INFO-6128Week2Lab.github.io/",
+  "method": "GET",
+  "params": {
+    "title": "title",
+    "text": "text",
+    "url": "url"
+  }
+}
 }

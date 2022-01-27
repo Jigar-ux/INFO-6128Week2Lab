@@ -1,7 +1,7 @@
 {
   "name": "my-new-pwa",
   "short_name": "my-new-pwa",
-  "start_url": "https://jigar-ux.github.io/INFO-6128Week2Lab.github.io/",
+  "start_url": "https://jigar-ux.github.io/INFO-6128Week2Lab/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
@@ -40,7 +40,7 @@
     }
   ],
   "share_target": {
-  "action": "https://jigar-ux.github.io/INFO-6128Week2Lab.github.io/",
+  "action": "https://jigar-ux.github.io/INFO-6128Week2Lab/",
   "method": "GET",
   "params": {
     "title": "title",
